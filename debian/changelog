@@ -1,0 +1,31 @@
+libsejda-commons-java (1.1.7-1) UNRELEASED; urgency=medium
+
+  * update
+
+ -- Debian Java Maintainers <pkg-java-maintainers@lists.alioth.debian.org>  Wed, 25 May 2022 06:10:50 -0400
+
+libsejda-commons-java (1.1.7-1) unstable; urgency=medium
+
+  * New upstream version 1.1.7.
+  * Declare compliance with Debian Policy 4.6.0.
+
+ -- Markus Koschany <apo@debian.org>  Mon, 06 Sep 2021 21:18:54 +0200
+
+libsejda-commons-java (1.1.6-1) unstable; urgency=medium
+
+  * New upstream version 1.1.6.
+  * Declare compliance with Debian Policy 4.5.1.
+
+ -- Markus Koschany <apo@debian.org>  Sun, 31 Jan 2021 00:34:00 +0100
+
+libsejda-commons-java (1.1.4-2) unstable; urgency=medium
+
+  * No change rebuild to allow the migration to testing.
+
+ -- Markus Koschany <apo@debian.org>  Fri, 23 Oct 2020 20:40:17 +0200
+
+libsejda-commons-java (1.1.4-1) unstable; urgency=medium
+
+  * Initial release. (Closes: #970944)
+
+ -- Markus Koschany <apo@debian.org>  Sat, 26 Sep 2020 00:26:55 +0200
